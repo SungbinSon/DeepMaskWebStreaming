@@ -7,6 +7,7 @@ By Sungbin Son, [Kiback Kim](https://github.com/whitepurple/)
 
 web source from [https://askbootstrap.com/](https://github.com/whitepurple/VideoStreamingPlatform)
 
+if you use this code in your research, please cite [the paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09351471)
 ## Dependency
 | Packages Version | Commands |
 |--:|---|
