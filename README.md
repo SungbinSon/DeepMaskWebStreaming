@@ -11,6 +11,7 @@ web source from [https://askbootstrap.com/](https://askbootstrap.com/)
 |ffpyplayer 4.3.1 | ```conda install -c conda-forge ffpyplayer```|
 | django 3.0.3 | ```conda install -c anaconda django```|
 | djangorestframework 3.11.1 | ```conda install -c conda-forge djangorestframework```|
+| pytorch 1.6.0 | ```conda install pytorch torchvision cudatoolkit=10.2 -c pytorch```|
 | facenet-pytorch 2.4.1 | ```pip install facenet-pytorch```|
 
 ## Server setting
