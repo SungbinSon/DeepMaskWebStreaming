@@ -3,7 +3,7 @@ DeepMaskWebStreaming using django, nginx-rtmp-module, mtcnn, arcface
 
 Koreatech CSE Graduate Project
 
-By Sungbin Son,[Kiback Kim](https://github.com/whitepurple/)
+By Sungbin Son, [Kiback Kim](https://github.com/whitepurple/)
 
 web source from [https://askbootstrap.com/](https://github.com/whitepurple/VideoStreamingPlatform)
 
